@@ -21,7 +21,8 @@
     "webdriverio",
     "cucumber",
     "test",
-    "selenium"
+    "selenium",
+    "test"
   ],
   "author": "Christian Bromann <christian@saucelabs.com>",
   "license": "MIT",
